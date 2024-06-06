@@ -1,0 +1,28 @@
+C:\Users\Karolis\Desktop\.NET Framework PRogram\Projektas\Projektas\bin\Debug\Projektas.exe.config
+C:\Users\Karolis\Desktop\.NET Framework PRogram\Projektas\Projektas\bin\Debug\Projektas.exe
+C:\Users\Karolis\Desktop\.NET Framework PRogram\Projektas\Projektas\bin\Debug\Projektas.pdb
+C:\Users\Karolis\Desktop\.NET Framework PRogram\Projektas\Projektas\obj\Debug\Projektas.csproj.AssemblyReference.cache
+C:\Users\Karolis\Desktop\.NET Framework PRogram\Projektas\Projektas\obj\Debug\Projektas.FormPOTD.resources
+C:\Users\Karolis\Desktop\.NET Framework PRogram\Projektas\Projektas\obj\Debug\Projektas.Properties.Resources.resources
+C:\Users\Karolis\Desktop\.NET Framework PRogram\Projektas\Projektas\obj\Debug\Projektas.csproj.GenerateResource.cache
+C:\Users\Karolis\Desktop\.NET Framework PRogram\Projektas\Projektas\obj\Debug\Projektas.csproj.CoreCompileInputs.cache
+C:\Users\Karolis\Desktop\.NET Framework PRogram\Projektas\Projektas\obj\Debug\Projektas.exe
+C:\Users\Karolis\Desktop\.NET Framework PRogram\Projektas\Projektas\obj\Debug\Projektas.pdb
+C:\Users\Karolis\Desktop\.NET Framework PRogram\Projektas\Projektas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Karolis\Desktop\.NET Framework PRogram\Projektas\Projektas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Karolis\Desktop\.NET Framework PRogram\Projektas\Projektas\obj\Debug\Projektas.csproj.CopyComplete
+C:\Users\Karolis\Desktop\.NET Framework PRogram\Projektas\Projektas\obj\Debug\Projektas.INFO.resources
+C:\Users\karol\Desktop\C#Learning\NasaApi.net\Projektas\Projektas\bin\Debug\Projektas.exe.config
+C:\Users\karol\Desktop\C#Learning\NasaApi.net\Projektas\Projektas\bin\Debug\Projektas.exe
+C:\Users\karol\Desktop\C#Learning\NasaApi.net\Projektas\Projektas\bin\Debug\Projektas.pdb
+C:\Users\karol\Desktop\C#Learning\NasaApi.net\Projektas\Projektas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\karol\Desktop\C#Learning\NasaApi.net\Projektas\Projektas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\karol\Desktop\C#Learning\NasaApi.net\Projektas\Projektas\obj\Debug\Projektas.csproj.AssemblyReference.cache
+C:\Users\karol\Desktop\C#Learning\NasaApi.net\Projektas\Projektas\obj\Debug\Projektas.FormPOTD.resources
+C:\Users\karol\Desktop\C#Learning\NasaApi.net\Projektas\Projektas\obj\Debug\Projektas.INFO.resources
+C:\Users\karol\Desktop\C#Learning\NasaApi.net\Projektas\Projektas\obj\Debug\Projektas.Properties.Resources.resources
+C:\Users\karol\Desktop\C#Learning\NasaApi.net\Projektas\Projektas\obj\Debug\Projektas.csproj.GenerateResource.cache
+C:\Users\karol\Desktop\C#Learning\NasaApi.net\Projektas\Projektas\obj\Debug\Projektas.csproj.CoreCompileInputs.cache
+C:\Users\karol\Desktop\C#Learning\NasaApi.net\Projektas\Projektas\obj\Debug\Projektas.csproj.Up2Date
+C:\Users\karol\Desktop\C#Learning\NasaApi.net\Projektas\Projektas\obj\Debug\Projektas.exe
+C:\Users\karol\Desktop\C#Learning\NasaApi.net\Projektas\Projektas\obj\Debug\Projektas.pdb

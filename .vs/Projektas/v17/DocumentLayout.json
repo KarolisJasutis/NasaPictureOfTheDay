@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karol\\Desktop\\C#Learning\\NasaApi.net\\Projektas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56B96864-5D96-4433-8CE4-93CA2E2C3192}|Projektas\\Projektas.csproj|c:\\users\\karol\\desktop\\c#learning\\nasaapi.net\\projektas\\projektas\\nasaapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B96864-5D96-4433-8CE4-93CA2E2C3192}|Projektas\\Projektas.csproj|solutionrelative:projektas\\nasaapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B96864-5D96-4433-8CE4-93CA2E2C3192}|Projektas\\Projektas.csproj|C:\\Users\\karol\\Desktop\\C#Learning\\NasaApi.net\\Projektas\\projektas\\saveddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B96864-5D96-4433-8CE4-93CA2E2C3192}|Projektas\\Projektas.csproj|solutionrelative:projektas\\saveddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B96864-5D96-4433-8CE4-93CA2E2C3192}|Projektas\\Projektas.csproj|C:\\Users\\karol\\Desktop\\C#Learning\\NasaApi.net\\Projektas\\projektas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B96864-5D96-4433-8CE4-93CA2E2C3192}|Projektas\\Projektas.csproj|solutionrelative:projektas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B96864-5D96-4433-8CE4-93CA2E2C3192}|Projektas\\Projektas.csproj|C:\\Users\\karol\\Desktop\\C#Learning\\NasaApi.net\\Projektas\\projektas\\potddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B96864-5D96-4433-8CE4-93CA2E2C3192}|Projektas\\Projektas.csproj|solutionrelative:projektas\\potddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B96864-5D96-4433-8CE4-93CA2E2C3192}|Projektas\\Projektas.csproj|C:\\Users\\karol\\Desktop\\C#Learning\\NasaApi.net\\Projektas\\projektas\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B96864-5D96-4433-8CE4-93CA2E2C3192}|Projektas\\Projektas.csproj|solutionrelative:projektas\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B96864-5D96-4433-8CE4-93CA2E2C3192}|Projektas\\Projektas.csproj|C:\\Users\\karol\\Desktop\\C#Learning\\NasaApi.net\\Projektas\\projektas\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56B96864-5D96-4433-8CE4-93CA2E2C3192}|Projektas\\Projektas.csproj|solutionrelative:projektas\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B96864-5D96-4433-8CE4-93CA2E2C3192}|Projektas\\Projektas.csproj|C:\\Users\\karol\\Desktop\\C#Learning\\NasaApi.net\\Projektas\\projektas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{56B96864-5D96-4433-8CE4-93CA2E2C3192}|Projektas\\Projektas.csproj|solutionrelative:projektas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\Desktop\\C#Learning\\NasaApi.net\\Projektas\\Projektas\\Form1.cs",
+              "RelativeDocumentMoniker": "Projektas\\Form1.cs",
+              "ToolTip": "C:\\Users\\karol\\Desktop\\C#Learning\\NasaApi.net\\Projektas\\Projektas\\Form1.cs",
+              "RelativeToolTip": "Projektas\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-06T10:20:09.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "INFO.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\karol\\Desktop\\C#Learning\\NasaApi.net\\Projektas\\Projektas\\INFO.cs",
+              "RelativeDocumentMoniker": "Projektas\\INFO.cs",
+              "ToolTip": "C:\\Users\\Karolis\\Desktop\\.NET Framework PRogram\\Projektas\\Projektas\\INFO.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karolis\\Desktop\\.NET Framework PRogram\\Projektas\\Projektas\\INFO.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-06T10:20:09.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PotdData.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\Desktop\\C#Learning\\NasaApi.net\\Projektas\\Projektas\\PotdData.cs",
+              "RelativeDocumentMoniker": "Projektas\\PotdData.cs",
+              "ToolTip": "C:\\Users\\karol\\Desktop\\C#Learning\\NasaApi.net\\Projektas\\Projektas\\PotdData.cs",
+              "RelativeToolTip": "Projektas\\PotdData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:20:09.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "INFO.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\Desktop\\C#Learning\\NasaApi.net\\Projektas\\Projektas\\INFO.cs",
+              "RelativeDocumentMoniker": "Projektas\\INFO.cs",
+              "ToolTip": "C:\\Users\\karol\\Desktop\\C#Learning\\NasaApi.net\\Projektas\\Projektas\\INFO.cs",
+              "RelativeToolTip": "Projektas\\INFO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-06T10:20:09.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavedData.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\Desktop\\C#Learning\\NasaApi.net\\Projektas\\Projektas\\SavedData.cs",
+              "RelativeDocumentMoniker": "Projektas\\SavedData.cs",
+              "ToolTip": "C:\\Users\\karol\\Desktop\\C#Learning\\NasaApi.net\\Projektas\\Projektas\\SavedData.cs",
+              "RelativeToolTip": "Projektas\\SavedData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAB+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:20:09.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NasaApi.cs",
+              "DocumentMoniker": "C:\\Users\\karol\\Desktop\\C#Learning\\NasaApi.net\\Projektas\\Projektas\\NasaApi.cs",
+              "RelativeDocumentMoniker": "Projektas\\NasaApi.cs",
+              "ToolTip": "C:\\Users\\karol\\Desktop\\C#Learning\\NasaApi.net\\Projektas\\Projektas\\NasaApi.cs",
+              "RelativeToolTip": "Projektas\\NasaApi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:20:10.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\karol\\Desktop\\C#Learning\\NasaApi.net\\Projektas\\Projektas\\Form1.cs",
+              "RelativeDocumentMoniker": "Projektas\\Form1.cs",
+              "ToolTip": "C:\\Users\\Karolis\\Desktop\\.NET Framework PRogram\\Projektas\\Projektas\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Karolis\\Desktop\\.NET Framework PRogram\\Projektas\\Projektas\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-06T10:20:10.053Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
