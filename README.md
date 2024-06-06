@@ -24,4 +24,5 @@ This project uses the NASA Picture of the Day API to display the picture of the 
 - Use the buttons to save, view, open, or download the picture.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
